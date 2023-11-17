@@ -1,6 +1,7 @@
 import java.util.Scanner;
 public class Solicitar {
     Scanner sc = new Scanner (System.in);
+    
     private int vehiculo;
 
     public Solicitar(int vehiculo) {
@@ -23,8 +24,8 @@ public class Solicitar {
         }
     }
     public void ocupar (){
-        Estacionamiento he = new Estacionamiento(vehiculo);
-        he.nose();
+        Estacionamiento par = new Estacionamiento(vehiculo);
+        par.marcar();
     }
 
 }
