@@ -7,7 +7,7 @@ public class Estacionamiento {
         this.vehiculo=vehiculo;
     }
 
-    HashMap <Integer, Integer> lista = new HashMap<>();
+    public HashMap <Integer, Integer> lista = new HashMap<>();
 
     public void marcar () {
         for (int i = 0 ;i <= 29;i++){
