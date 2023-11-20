@@ -1,4 +1,4 @@
-https://code-with-me.global.jetbrains.com/1z9IphlpmSnOa7WpbDqU6A#p=IU&fp=1CAB7C24A55AFE5182614CB6BC90D403CE0B86070CD15378884B312F47F3459D&newUi=true
+//code-with-me.global.jetbrains.com/1z9IphlpmSnOa7WpbDqU6A#p=IU&fp=1CAB7C24A55AFE5182614CB6BC90D403CE0B86070CD15378884B312F47F3459D&newUi=true
 import java.util.Scanner;
 public class Solicitar {
     Scanner sc = new Scanner (System.in);
