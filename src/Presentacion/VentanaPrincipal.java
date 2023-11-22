@@ -28,10 +28,6 @@ public class VentanaPrincipal extends JFrame {
 
         setTitle("Ingresar");
 
-        btnIngresar.setPreferredSize(new Dimension(50, 50));
-
-
-
         this.setContentPane(pnlPrincipal);
 
         this.setSize(600,400);

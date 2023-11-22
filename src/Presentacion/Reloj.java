@@ -16,7 +16,7 @@ public class Reloj extends JFrame {
 
         setSize(300, 150);
 
-        setLocation(1235,200);
+        setLocation(1238,200);
 
         hora = new JLabel();
 
