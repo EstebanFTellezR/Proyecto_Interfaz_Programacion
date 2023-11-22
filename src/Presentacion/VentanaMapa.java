@@ -183,9 +183,9 @@ public class VentanaMapa extends JFrame {
         btn1.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                String ruta = "123/desocupado.png";
+                String ruta = "123/ocupado.png";
                 if(!ocupado) {
-                    ruta = "123/ocupado.png";
+                    ruta = "123/desocupado.png";
                 }
                 setImage(ruta);
                 ocupado = !ocupado;
@@ -195,9 +195,9 @@ public class VentanaMapa extends JFrame {
         btn2.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                String ruta1 = "123/desocupado.png";
+                String ruta1 = "123/ocupado.png";
                 if(!ocupado) {
-                    ruta1 = "123/ocupado.png";
+                    ruta1 = "123/desocupado.png";
                 }
                 setImage1(ruta1);
                 ocupado = !ocupado;
@@ -207,9 +207,9 @@ public class VentanaMapa extends JFrame {
         btn3.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                String ruta2 = "123/desocupado.png";
+                String ruta2 = "123/ocupado.png";
                 if(!ocupado) {
-                    ruta2 = "123/ocupado.png";
+                    ruta2 = "123/desocupado.png";
                 }
                 setImage2(ruta2);
                 ocupado = !ocupado;
@@ -219,9 +219,9 @@ public class VentanaMapa extends JFrame {
         btn4.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                String ruta3 = "123/desocupado.png";
+                String ruta3 = "123/ocupado.png";
                 if(!ocupado) {
-                    ruta3 = "123/ocupado.png";
+                    ruta3 = "123/desocupado.png";
                 }
                 setImage3(ruta3);
                 ocupado = !ocupado;
@@ -231,9 +231,9 @@ public class VentanaMapa extends JFrame {
         btn5.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                String ruta4 = "123/desocupado.png";
+                String ruta4 = "123/ocupado.png";
                 if(!ocupado) {
-                    ruta4 = "123/ocupado.png";
+                    ruta4 = "123/desocupado.png";
                 }
                 setImage4(ruta4);
                 ocupado = !ocupado;
@@ -243,9 +243,9 @@ public class VentanaMapa extends JFrame {
         btn6.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                String ruta5 = "123/desocupado.png";
+                String ruta5 = "123/ocupado.png";
                 if(!ocupado) {
-                    ruta5 = "123/ocupado.png";
+                    ruta5 = "123/desocupado.png";
                 }
                 setImage5(ruta5);
                 ocupado = !ocupado;
@@ -255,9 +255,9 @@ public class VentanaMapa extends JFrame {
         btn7.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                String ruta6 = "123/desocupado.png";
+                String ruta6 = "123/ocupado.png";
                 if(!ocupado) {
-                    ruta6 = "123/ocupado.png";
+                    ruta6 = "123/desocupado.png";
                 }
                 setImage6(ruta6);
                 ocupado = !ocupado;
@@ -267,9 +267,9 @@ public class VentanaMapa extends JFrame {
         btn8.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                String ruta7 = "123/desocupado.png";
+                String ruta7 = "123/ocupado.png";
                 if(!ocupado) {
-                    ruta7 = "123/ocupado.png";
+                    ruta7 = "123/desocupado.png";
                 }
                 setImage7(ruta7);
                 ocupado = !ocupado;
@@ -279,9 +279,9 @@ public class VentanaMapa extends JFrame {
         btn9.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                String ruta8 = "123/desocupado.png";
+                String ruta8 = "123/ocupado.png";
                 if(!ocupado) {
-                    ruta8 = "123/ocupado.png";
+                    ruta8 = "123/desocupado.png";
                 }
                 setImage8(ruta8);
                 ocupado = !ocupado;
@@ -291,9 +291,9 @@ public class VentanaMapa extends JFrame {
         btn10.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                String ruta9 = "123/desocupado.png";
+                String ruta9 = "123/ocupado.png";
                 if(!ocupado) {
-                    ruta9 = "123/ocupado.png";
+                    ruta9 = "123/desocupado.png";
                 }
                 setImage9(ruta9);
                 ocupado = !ocupado;
@@ -303,9 +303,9 @@ public class VentanaMapa extends JFrame {
         btn11.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                String ruta10 = "123/desocupado.png";
+                String ruta10 = "123/ocupado.png";
                 if(!ocupado) {
-                    ruta10 = "123/ocupado.png";
+                    ruta10 = "123/desocupado.png";
                 }
                 setImage10(ruta10);
                 ocupado = !ocupado;
@@ -315,9 +315,9 @@ public class VentanaMapa extends JFrame {
         btn12.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                String ruta11 = "123/desocupado.png";
+                String ruta11 = "123/ocupado.png";
                 if(!ocupado) {
-                    ruta11 = "123/ocupado.png";
+                    ruta11 = "123/desocupado.png";
                 }
                 setImage11(ruta11);
                 ocupado = !ocupado;
