@@ -10,7 +10,7 @@ public class Reloj extends JFrame {
 
     public Reloj() {
 
-        setTitle("La hora de morir");
+        setTitle("La hora");
 
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
