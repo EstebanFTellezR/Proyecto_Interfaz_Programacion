@@ -163,7 +163,7 @@ public class VentanaMapa extends JFrame {
 
         this.setSize(790,440);
 
-        this.setLocation(650, 200);
+        this.setLocation(460, 200);
 
         this.setResizable(true);
 
