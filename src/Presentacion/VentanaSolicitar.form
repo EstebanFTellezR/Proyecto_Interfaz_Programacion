@@ -17,7 +17,7 @@
         </constraints>
         <properties>
           <foreground color="-394241"/>
-          <text value="Bienvendios al parqueadero "/>
+          <text value="Bienvenidos al parqueadero "/>
         </properties>
       </component>
       <component id="f14be" class="javax.swing.JLabel" binding="lblTipoVehiculo">
